@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2cea37e7ca21f6",
+        "id": "d919af061b2c92cc",
         "type": "tabs",
         "children": [
           {
-            "id": "19dcbce81bc3b3ab",
+            "id": "1d241303edbf8118",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d880df77d15cdc39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "coms 418/!days/1.16.2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coms 418/!days/1.16.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "coms 418/!days/1.16.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "coms 418/!days/1.16.2024.md"
+              }
             }
           },
           {
@@ -160,14 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d880df77d15cdc39",
+  "active": "1d241303edbf8118",
   "lastOpenFiles": [
-    "coms 327/!days/327 days.md",
+    "coms 418/!notes/convex hull.md",
+    "coms 418/!days/1.16.2024.md",
+    "coms 418/photos/Pasted image 20240117195407.png",
+    "Pasted image 20240117195456.png",
+    "Pasted image 20240117195534.png",
+    "Pasted image 20240117195613.png",
+    "Pasted image 20240117195606.png",
+    "Pasted image 20240117195552.png",
+    "Pasted image 20240117195543.png",
     "coms 418/!days/418 days.md",
+    "coms 418/!notes/convex.md",
+    "Untitled.canvas",
+    "coms 418/photos/Pasted image 20240117194854.png",
+    "coms 418/photos",
+    "Pasted image 20240117194845.png",
+    "2024-01-17.md",
+    "coms 418/!notes/Homogeneous Coordinates.md",
+    "coms 418/!notes/CROSS PRODUCT.md",
+    "coms 418/!notes/vector magnitude.md",
+    "coms 418/!notes/case of collinearity.md",
+    "coms 418/!notes/turning of consecutive segments.md",
+    "urning of consecutive segments.md",
+    "coms 418/!notes/DOT PRODUCT.md",
+    "**DOT PRODUCT.md",
+    "Pasted image 20240117191744.png",
+    "coms 418/cross",
+    "coms 418/varphi",
+    "Stats 330/days/8 23.md",
+    "coms 327/!days/327 days.md",
     "coms 327/!days/1.16.2024.md",
     "coms 327/!days/rrr.md",
     "coms 363/!main/!days.md",
-    "coms 418/!days/1.16.2024.md",
     "coms 327/!notes",
     "coms 327/!days",
     "coms 327",
@@ -181,24 +206,7 @@
     "coms 418/!notes",
     "coms 418/!days",
     "coms 418",
-    "Stats 330/topics/Pairwise Disjoint sets.md",
-    "Stats 330/days/8 28.md",
-    "Stats 330/days/8 30.md",
-    "Stats 330/days/8 25.md",
-    "Stats 330/days/9 1.md",
-    "coms 363/topics/partial-participation.md",
-    "coms 363/topics/Multi-participation.md",
-    "Stats 330/!main/TODO.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "2023-08-30.md",
-    "Stats 330/!main/Stats Basic Terms.md",
-    "Stats 330/!main/Basic Symbols.md",
     "coms 363/!main",
-    "Stats 330/days",
-    "Stats 330/!main",
-    "Disjoint",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

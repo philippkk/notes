@@ -1,58 +1,51 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "stats",
-      "color": {
-        "a": 1,
-        "rgb": 15479346
-      }
-    },
-    {
-      "query": "com363",
-      "color": {
-        "a": 1,
-        "rgb": 41850
-      }
-    },
-    {
-      "query": "com363Main",
-      "color": {
-        "a": 1,
-        "rgb": 64511
-      }
-    },
-    {
-      "query": "tags: #statsMain",
-      "color": {
-        "a": 1,
-        "rgb": 1596617
-      }
-    },
-    {
       "query": "tag:#coms418  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#com363  ",
+      "color": {
+        "a": 1,
+        "rgb": 4119133
+      }
+    },
+    {
+      "query": "tag:#coms327  ",
+      "color": {
+        "a": 1,
+        "rgb": 8404688
+      }
+    },
+    {
+      "query": "tag:#stats  ",
+      "color": {
+        "a": 1,
+        "rgb": 7041279
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.171875,
-  "lineSizeMultiplier": 1.58020833333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.96302083333333,
+  "lineSizeMultiplier": 2.1671875,
   "collapse-forces": false,
-  "centerStrength": 0.40625,
-  "repelStrength": 11.25,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.33123746774376533,
-  "close": false
+  "centerStrength": 0.427083333333333,
+  "repelStrength": 11.875,
+  "linkStrength": 0.598958333333333,
+  "linkDistance": 69,
+  "scale": 0.33123746774376506,
+  "close": true
 }
