@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "stats",
+      "color": {
+        "a": 1,
+        "rgb": 15479346
+      }
+    },
+    {
+      "query": "com363",
+      "color": {
+        "a": 1,
+        "rgb": 41850
+      }
+    },
+    {
+      "query": "com363Main",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "tags: #statsMain",
+      "color": {
+        "a": 1,
+        "rgb": 1596617
+      }
+    },
+    {
+      "query": "tag:#coms418  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.58020833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.40625,
+  "repelStrength": 11.25,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.33123746774376533,
+  "close": false
+}
