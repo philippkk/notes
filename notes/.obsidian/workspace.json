@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee1b188068843dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT TOKEN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coms 418/!days/1.16.2024.md",
+                "file": "GIT TOKEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coms 418/!days/1.16.2024.md",
+                "file": "GIT TOKEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coms 418/!days/1.16.2024.md"
+                "file": "GIT TOKEN.md"
               }
             }
           },
@@ -159,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d241303edbf8118",
+  "active": "ee1b188068843dd5",
   "lastOpenFiles": [
-    "coms 418/!notes/convex hull.md",
     "coms 418/!days/1.16.2024.md",
+    "GIT TOKEN.md",
+    "Untitled",
+    "coms 418/!notes/convex hull.md",
     "coms 418/photos/Pasted image 20240117195407.png",
     "Pasted image 20240117195456.png",
     "Pasted image 20240117195534.png",
@@ -206,7 +221,6 @@
     "coms 418/!notes",
     "coms 418/!days",
     "coms 418",
-    "coms 363/!main",
     "Untitled 1.canvas"
   ]
 }
