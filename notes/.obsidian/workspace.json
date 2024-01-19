@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coms 418/!days/1.16.2024.md",
+                "file": "coms 418/!days/2024-01-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc1521afc819417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 418/!days/2024-01-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4277eacc004218fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 418/!days/2024-01-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b7e177d982351bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 418/!notes/Graham Scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87a2c89029f14f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 418/!notes/Graham Scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#w418",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,23 +134,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coms 418/!notes/Graham Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f2b8291a5498087c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -118,12 +157,24 @@
             }
           },
           {
+            "id": "f2b8291a5498087c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "coms 418/!notes/Graham Scan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "e241672e71f602b2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT TOKEN.md"
+                "file": "coms 418/!notes/Graham Scan.md"
               }
             }
           },
@@ -140,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,25 +208,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1b674cc6b23ceef",
+  "active": "4b7e177d982351bf",
   "lastOpenFiles": [
+    "coms 418/!days/2024-01-18.md",
+    "coms 418/!notes/Graham Scan.md",
+    "quick rejection.md",
+    "Pasted image 20240119130100.png",
+    "Pasted image 20240119125631.png",
+    "V. Jarvis March.md",
+    "Pasted image 20240119124220.png",
+    "Pasted image 20240119123836.png",
     "coms 418/!days/1.16.2024.md",
+    "coms 418/!days/418 days.md",
+    "Pasted image 20240119123548.png",
+    "Pasted image 20240119123539.png",
+    "coms 418/!notes/convex hull.md",
+    "Stats 330/topics/De Morgan's Law.md",
+    "Stats 330/days/8 23.md",
     "GIT TOKEN.md",
     "Untitled",
-    "coms 418/!notes/convex hull.md",
     "coms 418/photos/Pasted image 20240117195407.png",
     "Pasted image 20240117195456.png",
     "Pasted image 20240117195534.png",
     "Pasted image 20240117195613.png",
-    "Pasted image 20240117195606.png",
-    "Pasted image 20240117195552.png",
-    "Pasted image 20240117195543.png",
-    "coms 418/!days/418 days.md",
     "coms 418/!notes/convex.md",
     "Untitled.canvas",
-    "coms 418/photos/Pasted image 20240117194854.png",
     "coms 418/photos",
-    "Pasted image 20240117194845.png",
     "2024-01-17.md",
     "coms 418/!notes/Homogeneous Coordinates.md",
     "coms 418/!notes/CROSS PRODUCT.md",
@@ -185,10 +243,8 @@
     "urning of consecutive segments.md",
     "coms 418/!notes/DOT PRODUCT.md",
     "**DOT PRODUCT.md",
-    "Pasted image 20240117191744.png",
     "coms 418/cross",
     "coms 418/varphi",
-    "Stats 330/days/8 23.md",
     "coms 327/!days/327 days.md",
     "coms 327/!days/1.16.2024.md",
     "coms 327/!days/rrr.md",
@@ -197,12 +253,6 @@
     "coms 327/!days",
     "coms 327",
     "coms 363/days/8 28.md",
-    "coms 363/days/8 23.md",
-    "coms 363/topics/entity.md",
-    "coms 363/topics/attributes.md",
-    "coms 363/days/9 1.md",
-    "coms 363/days/8 30.md",
-    "coms 363/days/8 25.md",
     "coms 418/!notes",
     "coms 418/!days",
     "coms 418",
