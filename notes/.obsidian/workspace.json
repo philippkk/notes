@@ -6,14 +6,15 @@
       {
         "id": "56061d32fa4f5c59",
         "type": "tabs",
+        "dimension": 66.76610978520287,
         "children": [
           {
-            "id": "d9f910017e53e533",
+            "id": "d34417b8856847f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geo 102/2024-01-22.md",
+                "file": "coms 418/!days/2024-01-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,8 +23,9 @@
         ]
       },
       {
-        "id": "a69a37671a8ff38b",
+        "id": "87806368233147ad",
         "type": "tabs",
+        "dimension": 33.233890214797135,
         "children": [
           {
             "id": "c6554497224832d4",
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "coms 418/!days/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "coms 418/!days/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "coms 418/!days/2024-01-24.md"
+              }
             }
           },
           {
@@ -169,45 +175,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6554497224832d4",
+  "active": "d34417b8856847f6",
   "lastOpenFiles": [
+    "coms 418/!notes/Doubly-Connected Edge List.md",
+    "Pasted image 20240124141254.png",
+    "coms 418/!days/2024-01-24.md",
+    "Face.md",
+    "Geo 102/notes/Achonndrites.md",
+    "Geo 102/2024-01-24.md",
+    "Stats 330/days/8 30.md",
+    "Stats 330/topics/Kolmogorov's Axioms.md",
+    "coms 363/days/9 1.md",
+    "Geo 102/notes/Meteorites.md",
+    "Geo 102/notes/Iron.md",
+    "Geo 102/notes/stony-iron.md",
+    "Geo 102/notes/Chondrites.md",
+    "Geo 102/notes/Planetary differentiation.md",
     "Geo 102/2024-01-22.md",
-    "stable isotope.md",
-    "Absolute dating.md",
-    "Isotope.md",
-    "daughter isotope.md",
-    "parent isotope.md",
-    "radioactive isotope.md",
-    "Relative dating.md",
-    "Fossils.md",
-    "Index Fossil.md",
-    "Inclusions.md",
-    "Cross-cutting relationships.md",
-    "super-position.md",
-    "Law of original horizontality.md",
+    "Geo 102/notes/accrete.md",
+    "coms 418/!days.md",
     "Geo 102/!days.md",
+    "Geo 102/notes/planetesimals.md",
+    "Geo 102/notes/Protoplanetary Disk.md",
+    "Geo 102/notes/Absolute dating.md",
+    "Geo 102/notes/daughter isotope.md",
+    "coms 418/!notes/edges.md",
+    "Geo 102/notes",
+    "coms 418/!notes/Complexity.md",
+    "Geo 102/notes/Cross-cutting relationships.md",
+    "Geo 102/notes/super-position.md",
+    "coms 418/photos/Pasted image 20240124131925.png",
     "Geo 102",
-    "coms 418/!days/2024-01-18.md",
-    "coms 418/!notes/quick rejection.md",
     "coms 418/photos/Pasted image 20240119123548.png",
-    "coms 418/!days/1.16.2024.md",
-    "coms 418/!notes/Graham Scan.md",
     "coms 418/photos/Pasted image 20240119130100.png",
     "coms 418/photos/Pasted image 20240119125631.png",
-    "coms 418/!notes/V. Jarvis March.md",
     "coms 418/photos/Pasted image 20240119124220.png",
     "coms 418/photos/Pasted image 20240119123836.png",
-    "coms 418/!days/418 days.md",
     "Pasted image 20240119123539.png",
-    "coms 418/!notes/convex hull.md",
-    "Stats 330/topics/De Morgan's Law.md",
-    "Stats 330/days/8 23.md",
-    "GIT TOKEN.md",
     "coms 418/photos/Pasted image 20240117195407.png",
     "Pasted image 20240117195456.png",
-    "Pasted image 20240117195534.png",
-    "Pasted image 20240117195613.png",
-    "coms 418/!notes/convex.md",
     "Untitled.canvas",
     "coms 418/photos",
     "coms 418/cross",
@@ -217,7 +223,6 @@
     "coms 327",
     "coms 418/!notes",
     "coms 418/!days",
-    "coms 418",
     "Untitled 1.canvas"
   ]
 }
