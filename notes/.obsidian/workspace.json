@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geo 102/2024-01-31.md",
+                "file": "Geo 102/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geo 102/2024-01-31.md",
+                "file": "Geo 102/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geo 102/2024-01-31.md",
+                "file": "Geo 102/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geo 102/2024-01-31.md"
+                "file": "Geo 102/2024-01-29.md"
               }
             }
           },
@@ -177,8 +177,14 @@
   },
   "active": "d34417b8856847f6",
   "lastOpenFiles": [
-    "Cratons.md",
     "Geo 102/2024-01-31.md",
+    "Great oxidation event.md",
+    "Geo 102/2024-01-29.md",
+    "coms 418/!days.md",
+    "Geo 102/!days.md",
+    "archean eon.md",
+    "Stromatolites.md",
+    "Cratons.md",
     "coms 418/!days/2024-01-18.md",
     "coms 418/!days/2024-01-29.md",
     "coms 418/!notes/Doubly-Connected Edge List.md",
@@ -191,7 +197,6 @@
     "coms 418/!notes/Vertex-Vertex.md",
     "coms 418/!notes/Invariant.md",
     "Geo 102/notes/lithophile.md",
-    "Geo 102/2024-01-29.md",
     "Geo 102/2024-01-24.md",
     "Geo 102/2024-01-22.md",
     "coms 418/photos/Pasted image 20240124141254.png",
@@ -201,11 +206,6 @@
     "Stats 330/days/8 30.md",
     "Stats 330/topics/Kolmogorov's Axioms.md",
     "coms 363/days/9 1.md",
-    "Geo 102/notes/Meteorites.md",
-    "Geo 102/notes/Iron.md",
-    "Geo 102/notes/stony-iron.md",
-    "Geo 102/notes/Chondrites.md",
-    "Geo 102/notes/Planetary differentiation.md",
     "Geo 102/notes",
     "coms 418/photos/Pasted image 20240124131925.png",
     "Geo 102",
