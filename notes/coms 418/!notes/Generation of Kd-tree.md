@@ -1,0 +1,15 @@
+#coms418 
+-[[ Generation of Kd-tree]]
+	- divide vertically at median point, $l_1$
+		- two subsets
+			- to the left or on the line
+			- to the right of the line
+	- $l_2$, horizontal median line,
+		- above
+		- below or on
+	- $l_3$, same as $l_2$ but on other side
+	- $l_4$,$l_5$, vertical split above and below $l_2$
+	- $l_6,l_6$, vertical split above and below $l_3$
+	- keep doing that : )
+	- ![[kdtree.heic]]
+	- 
