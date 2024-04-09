@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 17
+  "baseFontSize": 15,
+  "cssTheme": "Ukiyo",
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "theme": "system"
 }

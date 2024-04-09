@@ -6,7 +6,7 @@
       {
         "id": "56061d32fa4f5c59",
         "type": "tabs",
-        "dimension": 66.76610978520287,
+        "dimension": 71.48260211800303,
         "children": [
           {
             "id": "d34417b8856847f6",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coms 418/!days/2024-02-15.md",
+                "file": "coms 418/!days/2024-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,12 @@
         ]
       },
       {
-        "id": "87806368233147ad",
+        "id": "d174490dcefa1683",
         "type": "tabs",
-        "dimension": 33.233890214797135,
+        "dimension": 28.517397881996978,
         "children": [
           {
-            "id": "c6554497224832d4",
+            "id": "deedf8ff65a55706",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coms 418/!days/2024-02-15.md",
+                "file": "coms 418/!days/2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coms 418/!days/2024-02-15.md",
+                "file": "coms 418/!days/2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coms 418/!days/2024-02-15.md"
+                "file": "coms 418/!days/2024-04-09.md"
               }
             }
           },
@@ -174,54 +174,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d34417b8856847f6",
+  "active": "e1b674cc6b23ceef",
   "lastOpenFiles": [
+    "Geo 102/2024-04-08.md",
+    "coms 418/!days/2024-04-09.md",
+    "Geo 102/2024-04-01.md",
+    "Geo 102/2024-04-03.md",
+    "coms 418/!days/2024-01-18.md",
+    "coms 418/!days/2024-01-24.md",
+    "coms 418/!days/2024-04-04.md",
+    "coms 418/!days/418 days.md",
+    "coms 418/!days/1.16.2024.md",
+    "Geo 102/!days.md",
+    "coms 418/!days/2024-04-02.md",
+    "coms 418/!days/2024-03-21.md",
+    "coms 418/!days/2024-03-26.md",
+    "coms 418/!days/2024-03-28.md",
+    "Geo 102/2024-03-20.md",
+    "Geo 102/2024-03-18.md",
+    "Geo 102/2024-03-06.md",
+    "coms 418/!days/2024-03-19.md",
+    "Geo 102/images/Pasted image 20240320132631.png",
+    "Geo 102/images/Pasted image 20240320132621.png",
+    "Geo 102/images/Pasted image 20240320132619.png",
+    "Geo 102/2024-03-04.md",
+    "coms 418/!days/2024-02-13.md",
+    "Geo 102/images/Pasted image 20240318131852.png",
+    "Geo 102/images/Pasted image 20240306133021.png",
+    "coms 418/!days/2024-02-29.md",
+    "coms 418/!days/2024-02-15.md",
+    "coms 418/!days/2024-02-20.md",
+    "coms 418/!days/2024-02-22.md",
+    "coms 418/!days/2024-02-27.md",
+    "Geo 102/images",
+    "Geo 102/images/Pasted image 20240306132757.png",
+    "Geo 102/2024-02-28.md",
+    "Stats 330/Untitled",
+    "Pasted image 20240229110553.png",
     "coms 418/photos/ktreetimenode2.HEIC",
     "coms 418/photos/IMG_0945.HEIC",
     "coms 418/photos/kdtreetime.heic",
     "coms 418/photos/IMG_0944.heic",
     "coms 418/photos/kdtresearch.heic",
     "coms 418/photos/IMG_0943.heic",
-    "coms 418/!notes/2D range search.md",
-    "coms 418/!days/2024-02-15.md",
     "coms 418/photos/kdtreecode.heic",
     "coms 418/photos/IMG_0942.heic",
-    "coms 418/!days/2024-02-13.md",
-    "coms 418/!notes/Generation of Kd-tree.md",
-    "coms 418/photos/kdtree.heic",
-    "coms 418/photos/IMG_0941.heic",
-    "coms 418/!days/418 days.md",
-    "coms 418/!days/2024-01-29.md",
-    "Geo 102/2024-02-07.md",
-    "Geo 102/2024-02-12.md",
-    "Geo 102/2024-01-31.md",
-    "Geo 102/2024-02-05.md",
-    "Geo 102/notes/Cratons.md",
-    "Geo 102/2024-01-29.md",
-    "Geo 102/2024-01-24.md",
-    "Geo 102/2024-01-22.md",
-    "coms 418/photos/vsplit.HEIC",
-    "coms 418/!notes/1-D range searching.md",
-    "coms 418/!notes/Query of fields of records in database.md",
-    "IMG_0928.heic.md",
-    "coms 418/!notes/Database query as a geometric problem.md",
-    "coms 418/!days/1.16.2024.md",
-    "coms 418/photos/pic for range search.md",
     "coms 418/photos/Pasted image 20240117194854.png",
     "coms 418/photos/Pasted image 20240117195407.png",
-    "coms 418/!days/2024-01-24.md",
-    "coms 418/!notes/Graham Scan.md",
-    "coms 418/!notes/Edge-Edge.md",
-    "coms 418/!notes/case of collinearity.md",
-    "coms 418/!notes/Complexity.md",
     "coms 418/photos/Pasted image 20240129201716.png",
-    "coms 418/photos/Pasted image 20240129193213.png",
-    "coms 418/photos/Pasted image 20240124141254.png",
-    "coms 418/photos/Pasted image 20240124131925.png",
-    "coms 418/photos/Pasted image 20240119123548.png",
-    "coms 418/photos/Pasted image 20240119130100.png",
-    "coms 418/photos/Pasted image 20240119125631.png",
-    "coms 418/photos/Pasted image 20240119124220.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
