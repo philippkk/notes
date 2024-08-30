@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#coms342",
+      "color": {
+        "a": 1,
+        "rgb": 730771
+      }
+    },
+    {
+      "query": "tag:#coms331",
+      "color": {
+        "a": 1,
+        "rgb": 16754964
+      }
     }
   ],
   "collapse-display": false,

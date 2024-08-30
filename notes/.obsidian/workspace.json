@@ -4,28 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "56061d32fa4f5c59",
+        "id": "d174490dcefa1683",
         "type": "tabs",
-        "dimension": 71.48260211800303,
+        "dimension": 61.0733695652174,
         "children": [
           {
-            "id": "d34417b8856847f6",
+            "id": "53fdf9a52cee6c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coms 418/!days/2024-04-09.md",
+                "file": "coms 342/!days/2024-08-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab6818d26fc99089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 331/!days/2024-08-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcaf62aa4de7694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coms 331/!days/2024-08-30.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "d174490dcefa1683",
+        "id": "2d3e916fb03e3b1a",
         "type": "tabs",
-        "dimension": 28.517397881996978,
+        "dimension": 38.92663043478261,
         "children": [
           {
             "id": "deedf8ff65a55706",
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coms 418/!days/2024-04-09.md",
+                "file": "coms 331/!days/2024-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coms 418/!days/2024-04-09.md",
+                "file": "coms 331/!days/2024-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coms 418/!days/2024-04-09.md"
+                "file": "coms 331/!days/2024-08-30.md"
               }
             }
           },
@@ -174,54 +199,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1b674cc6b23ceef",
+  "active": "bbcaf62aa4de7694",
   "lastOpenFiles": [
-    "Geo 102/2024-04-08.md",
-    "coms 418/!days/2024-04-09.md",
-    "Geo 102/2024-04-01.md",
-    "Geo 102/2024-04-03.md",
-    "coms 418/!days/2024-01-18.md",
-    "coms 418/!days/2024-01-24.md",
-    "coms 418/!days/2024-04-04.md",
-    "coms 418/!days/418 days.md",
-    "coms 418/!days/1.16.2024.md",
-    "Geo 102/!days.md",
-    "coms 418/!days/2024-04-02.md",
-    "coms 418/!days/2024-03-21.md",
-    "coms 418/!days/2024-03-26.md",
-    "coms 418/!days/2024-03-28.md",
-    "Geo 102/2024-03-20.md",
-    "Geo 102/2024-03-18.md",
-    "Geo 102/2024-03-06.md",
-    "coms 418/!days/2024-03-19.md",
-    "Geo 102/images/Pasted image 20240320132631.png",
-    "Geo 102/images/Pasted image 20240320132621.png",
-    "Geo 102/images/Pasted image 20240320132619.png",
-    "Geo 102/2024-03-04.md",
-    "coms 418/!days/2024-02-13.md",
-    "Geo 102/images/Pasted image 20240318131852.png",
-    "Geo 102/images/Pasted image 20240306133021.png",
-    "coms 418/!days/2024-02-29.md",
-    "coms 418/!days/2024-02-15.md",
-    "coms 418/!days/2024-02-20.md",
-    "coms 418/!days/2024-02-22.md",
-    "coms 418/!days/2024-02-27.md",
-    "Geo 102/images",
-    "Geo 102/images/Pasted image 20240306132757.png",
-    "Geo 102/2024-02-28.md",
-    "Stats 330/Untitled",
+    "coms 331/!days.md",
+    "coms 331/!days/2024-08-28.md",
+    "coms 331/!days/2024-08-30.md",
+    "coms 336/!days/2024-08-29.md",
+    "coms 336/!days/2024-08-27.md",
+    "coms 342/!days/2024-08-29.md",
+    "coms 342/!days/!days.md",
+    "coms 342/!days/2024-08-27.md",
+    "coms 331/links/strings and sets.md",
+    "coms 331/links",
+    "old/Geo 102/2024-02-12.md",
+    "coms 331/!days/2024-08-26.md",
+    "coms 336/!days/!days.md",
+    "coms 336/!days",
+    "coms 336",
+    "old/coms 418/!days/418 days.md",
+    "coms 342/!days",
+    "coms 342",
+    "old",
+    "old/coms 327/!days/1.16.2024.md",
+    "old/coms 327/!days/327 days.md",
+    "old/coms 363/days/8 23.md",
+    "old/coms 363/days/8 25.md",
+    "old/coms 363/days/8 28.md",
+    "old/coms 418/!days/2024-04-18.md",
+    "old/coms 418/!days/2024-04-23.md",
+    "old/coms 418/!days/2024-04-25.md",
+    "old/coms 418/!days/2024-02-22.md",
+    "old/coms 418/!days/2024-02-20.md",
+    "old/coms 418/!days/2024-02-15.md",
+    "old/coms 418/!days/2024-02-13.md",
+    "old/coms 418/!days/2024-01-29.md",
+    "coms 331/!days",
+    "coms 331/!days",
+    "coms 331",
+    "old/Geo 102/images/Pasted image 20240320132631.png",
+    "old/Geo 102/images/Pasted image 20240320132621.png",
+    "old/Geo 102/images/Pasted image 20240320132619.png",
+    "old/Geo 102/images/Pasted image 20240318131852.png",
+    "old/Geo 102/images/Pasted image 20240306133021.png",
+    "old/Geo 102/images",
+    "old/Geo 102/images/Pasted image 20240306132757.png",
     "Pasted image 20240229110553.png",
-    "coms 418/photos/ktreetimenode2.HEIC",
-    "coms 418/photos/IMG_0945.HEIC",
-    "coms 418/photos/kdtreetime.heic",
-    "coms 418/photos/IMG_0944.heic",
-    "coms 418/photos/kdtresearch.heic",
-    "coms 418/photos/IMG_0943.heic",
-    "coms 418/photos/kdtreecode.heic",
-    "coms 418/photos/IMG_0942.heic",
-    "coms 418/photos/Pasted image 20240117194854.png",
-    "coms 418/photos/Pasted image 20240117195407.png",
-    "coms 418/photos/Pasted image 20240129201716.png",
+    "old/coms 418/photos/Pasted image 20240117194854.png",
+    "old/coms 418/photos/Pasted image 20240117195407.png",
+    "old/coms 418/photos/Pasted image 20240129201716.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,7 +1,0 @@
-- [[Isotope proxies]]
-	- Oxygen isotopes relationship fractionation
-		- describes how different mass isotopes behave differently in certain processes due to different mass
-	- Hydrogen isotopes
-	- depends on temperature
-	- clumped isotopes: measures the number of bonds between heavy isotopes, like $^{13}C$ and $^{18}O$ 
-- #geo102 

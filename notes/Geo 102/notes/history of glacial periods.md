@@ -1,4 +1,0 @@
-- [[history of glacial periods]]
-	- many more and longer as we get closer to current day
-	- solar luminosity has increased over time about 30%
-- #geo102 
